@@ -1,0 +1,13 @@
+
+<view>
+
+
+
+<view>我的</view>
+
+
+
+
+
+  <tabbar tabbar="{{tabbar}}"></tabbar>
+</view>

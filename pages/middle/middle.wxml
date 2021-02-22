@@ -1,0 +1,10 @@
+
+<view>
+
+<view>发布</view>
+
+
+
+
+  <tabbar tabbar="{{tabbar}}"></tabbar>
+</view>

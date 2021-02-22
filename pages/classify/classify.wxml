@@ -1,0 +1,9 @@
+
+<view>
+
+<view>分类</view>
+
+
+
+  <tabbar tabbar="{{tabbar}}"></tabbar>
+</view>

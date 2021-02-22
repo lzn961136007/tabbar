@@ -1,0 +1,13 @@
+
+<view>
+
+
+<view>购物车</view>
+
+
+
+
+
+
+  <tabbar tabbar="{{tabbar}}"></tabbar>
+</view>

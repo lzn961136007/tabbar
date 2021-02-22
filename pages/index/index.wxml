@@ -1,0 +1,11 @@
+
+<view>
+
+<view>首页</view>
+
+
+
+
+
+  <tabbar tabbar="{{tabbar}}"></tabbar>
+</view>

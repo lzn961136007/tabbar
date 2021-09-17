@@ -8,7 +8,7 @@
   ],
   "window": {
     "navigationBarBackgroundColor": "#fdb92c",
-    "navigationBarTitleText": "扬子光波"
+    "navigationBarTitleText": "你的项目名称"
   },
   "tabBar": {
     "backgroundColor": "#ffffff",
@@ -18,26 +18,26 @@
       {
         "pagePath": "pages/index/index",
         "text": "首页",
-        "iconPath": "tabbarComponent/icon/icon_home.png",
-        "selectedIconPath": "tabbarComponent/icon/icon_home_HL.png"
+        "iconPath": "tabbarComponent/icon/footer-i1.png",
+        "selectedIconPath": "tabbarComponent/icon/footer-i1h.png"
       },
       {
         "pagePath": "pages/classify/classify",
         "text": "分类",
-        "iconPath": "tabbarComponent/icon/icon_home.png",
-        "selectedIconPath": "tabbarComponent/icon/icon_home_HL.png"
+        "iconPath": "tabbarComponent/icon/footer-i2.png",
+        "selectedIconPath": "tabbarComponent/icon/footer-i2h.png"
       },
       {
         "pagePath": "pages/car/car",
         "text": "购物车",
-        "iconPath": "tabbarComponent/icon/icon_mine.png",
-        "selectedIconPath": "tabbarComponent/icon/icon_mine_HL.png"
+        "iconPath": "tabbarComponent/icon/footer-i4.png",
+        "selectedIconPath": "tabbarComponent/icon/footer-i4h.png"
       },
       {
         "pagePath": "pages/mine/mine",
         "text": "我的",
-        "iconPath": "tabbarComponent/icon/icon_mine.png",
-        "selectedIconPath": "tabbarComponent/icon/icon_mine_HL.png"
+        "iconPath": "tabbarComponent/icon/footer-i5.png",
+        "selectedIconPath": "tabbarComponent/icon/footer-i5h.png"
       }
     ]
   },

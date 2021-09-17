@@ -69,32 +69,32 @@ App({
       "list": [
         {
           "pagePath": "/pages/index/index",
-          "iconPath": "icon/icon_home.png",
-          "selectedIconPath": "icon/icon_home_HL.png",
+          "iconPath": "icon/footer-i1.png",
+          "selectedIconPath": "icon/footer-i1h.png",
           "text": "首页"
         },
         {
           "pagePath": "/pages/classify/classify",
-          "iconPath": "icon/icon_home.png",
-          "selectedIconPath": "icon/icon_home_HL.png",
+          "iconPath": "icon/footer-i2.png",
+          "selectedIconPath": "icon/footer-i2h.png",
           "text": "分类"
         },
         {
           "pagePath": "/pages/middle/middle",
           "iconPath": "icon/icon_release.png",
           "isSpecial": true,
-          "text": "发布"
+          "text": "推荐"
         },
         {
           "pagePath": "/pages/car/car",
-          "iconPath": "icon/icon_mine.png",
-          "selectedIconPath": "icon/icon_mine_HL.png",
+          "iconPath": "icon/footer-i4.png",
+          "selectedIconPath": "icon/footer-i4h.png",
           "text": "购物车"
         },
         {
           "pagePath": "/pages/mine/mine",
-          "iconPath": "icon/icon_mine.png",
-          "selectedIconPath": "icon/icon_mine_HL.png",
+          "iconPath": "icon/footer-i5.png",
+          "selectedIconPath": "icon/footer-i5h.png",
           "text": "我的"
         }
       ]
